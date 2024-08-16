@@ -28,15 +28,5 @@
         "Available": [
             0,1,2
         ]
-    },
-    {
-        "Version": 4,
-        "Path": "/firmware_v4.bin",
-        "WebVersion": 1,
-        "WebPath": "w_v1",
-        "Date": "09-08-24",
-        "Available": [
-            0,1,2,3
-        ]
     }
 ]
