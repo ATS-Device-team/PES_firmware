@@ -20,7 +20,7 @@
         ]
     },
     {
-        "Version": 3,
+        "Version": 4,
         "Path": "/firmware_v3.bin",
         "WebVersion": 1,
         "WebPath": "w_v1",
